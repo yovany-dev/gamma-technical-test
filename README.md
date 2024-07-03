@@ -1,4 +1,4 @@
-# Gamma Technical test
+# Gamma Technical Test
 Este es mi solución al reto **"Shopping Cart"**
 
 La prueba consiste en el desarollo de una aplicación de carrito de compras simple con los siguientes requisitos:
