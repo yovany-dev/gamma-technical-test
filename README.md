@@ -21,7 +21,7 @@ La prueba consiste en el desarollo de una aplicación de carrito de compras simp
 Clona el repositorio y sigue estas instrucciones. Debes tener instalado `Node.js` y `npm`.
 - Ejecute en su CLI el comando para instalar las dependencias
 ```
-npm instal
+npm install
 ```
 - Ejecute en su CLI el comando para iniciar la aplicación de Vue.js
 ```
